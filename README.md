@@ -1,7 +1,8 @@
 <img src="Shadowsocks.WPF/Resources/ssw128.png" alt="[logo]" width="48"/> Shadowsocks for Windows
 =======================
 
-[![Build](https://github.com/shadowsocks/shadowsocks-windows/workflows/Build/badge.svg)](https://github.com/shadowsocks/shadowsocks-windows/actions?query=workflow%3ABuild)
+[![Build](https://github.com/shadowsocks/shadowsocks-windows/workflows/Build/badge.svg)](https://github.com/shadowsocks/shadowsocks-windows/actions?query=workflow%3ABuild)[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fksshin-kaist%2Fshadowsocks-windows4.4.0.0.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fksshin-kaist%2Fshadowsocks-windows4.4.0.0?ref=badge_shield)
+
 [![Release](https://github.com/shadowsocks/shadowsocks-windows/workflows/Release/badge.svg)](https://github.com/shadowsocks/shadowsocks-windows/actions?query=workflow%3ARelease)
 
 ## Features
@@ -80,3 +81,6 @@ ReactiveUI.Validation (MIT)      https://github.com/reactiveui/ReactiveUI.Valida
 WPFLocalizationExtension (MS-PL) https://github.com/XAMLMarkupExtensions/WPFLocalizationExtension/
 ZXing.Net (Apache 2.0)           https://github.com/micjahn/ZXing.Net
 ```
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fksshin-kaist%2Fshadowsocks-windows4.4.0.0.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fksshin-kaist%2Fshadowsocks-windows4.4.0.0?ref=badge_large)
